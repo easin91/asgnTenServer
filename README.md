@@ -1,4 +1,5 @@
 # **This is server side heading**
+* npm install -g firebase-tools
 
 
 
@@ -6,6 +7,3 @@
 
 
 
-
-# b610-lerning-platform-server-side-easin91
-b610-lerning-platform-server-side-easin91 created by GitHub Classroom
