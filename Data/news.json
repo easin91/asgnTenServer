@@ -1,0 +1,532 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "HTML Lists",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://kendsnyder.com/wp-content/uploads/2016/08/post-44892276.png",
+      "details": "HTML lists allow web developers to group a set of related items in lists.",
+      "details_1": "<h2>An unordered HTML list</h2> <ul><li>Coffee</li><li>Tea</li><li>Milk</li></ul>"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Javascript onclick",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://www.brainfuel.io/images/node-js-new.png",
+      "details": "<button type=button  onclick = document.getElementById(demo).innerHTML = Date()> Click me to display Date and Time.</button>",
+      "details_1": "<button type=button  onclick = document.getElementById(demo).style.fontSize='35px'> Click Me! </button> "
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "HTML Ordered List",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://cdn0.iconfinder.com/data/icons/flat-file-format/100/html-512.png",
+      "details": "An ordered list starts with the <ol> tag. Each list item starts with the <li> tag.The list items will be marked with numbers by default.",
+      "details_1": "<h2>An ordered HTML list</h2> <ol><li>Coffee</li><li>Tea</li><li>Milk</li></ol> "
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "CSS background-color",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-css-icon-png-image_4196420.jpg",
+      "details": "body { background-color: lightblue;}",
+      "details_1": "h1 {color: white;text-align: center;}"
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Javascript Array",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "  https://p.kindpng.com/picc/s/452-4529206_js-logo-hd-png-download.png",
+      "details": "const cars = [ Saab, Volvo, BMW ];",
+      "details_1": "<script> document.getElementById(demo).innerHTML = cars; </script>"
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "HTML Background Color",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://icon-library.com/images/html-icon-png/html-icon-png-9.jpg",
+      "details": "You can set the background color for HTML elements.<h1 style=background-color:DodgerBlue;> Hello World </h1>",
+      "details_1": "Background color of Paragraph <p style=background-color:Tomato;>Lorem ipsum...</p>"
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": null,
+      "title": "CSS font-size & color",
+      "author": {
+        "name": null,
+        "published_date": "2022-08-30 15:00:04",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://cdn-icons-png.flaticon.com/512/1147/1147106.png",
+      "details": "p {font-family: verdana;font-size: 20px;}",
+      "details_1": "div {background-color: blue;color: white;}"
+    },
+
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 111,
+      "title": "Javascript Sorting an Array",
+      "author": {
+        "name": "system",
+        "published_date": null,
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736401_1280.png",
+      "details": "<script> const fruits = [Banana, Orange, Apple, Mango]; document.getElementById(demo1).innerHTML = fruits; fruits.sort(); document.getElementById(demo2).innerHTML = fruits; </script>",
+      "details_1": "<script> const fruits = [Banana, Orange, Apple, Mango]; fruits.reverse(); document.getElementById(demo2).innerHTML = fruits;</script>"
+    },
+
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "others_info": {
+        "is_todays_pick": true,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "Create a new route",
+      "author": {
+        "name": "Theo Minh Châu",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+      "image_url": "https://quintagroup.com/cms/js/js-image/react.js-logo.png",
+      "details": "import Contact from ./routes/contact; /* existing imports */ ",
+      "details_1":"const router = createBrowserRouter([{path: contacts/:contactId ,element: <Contact />, },]);"
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "React Router",
+      "author": {
+        "name": "Theo Minh Châu",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/df3gJ1b/unsplash-Eh-Tc-C9s-YXsw-13.png",
+      "image_url": "https://latitudetechnolabs.com/wp-content/uploads/2022/05/ReactJS-logo.png",
+      "details": "npm install react-router-dom ",
+      "details_1": "import {createBrowserRouter,RouterProvider,Route,}from react-router-dom;"
+    },
+
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a3",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Bootstrap flex behaviors",
+      "author": {
+        "name": "Ukrainska Pravda",
+        "published_date": "2022-08-25 18:53:49",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
+      "image_url": "https://www.kindpng.com/picc/m/27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png.png",
+      "details": "<div class=d-flex justify-content-center>...</div>",
+      "details_1": "<div class=d-flex justify-content-between>...</div>"
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a4",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Bootstrap Background color",
+      "author": {
+        "name": "Ukrainska Pravda",
+        "published_date": "2022-08-25 18:53:49",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://www.pngkit.com/png/detail/954-9549328_bootstrap-featured-image-bootstrap-3-logo-png.png",
+      "details": "<div class=p-3 mb-2 bg-primary text-white>.bg-primary</div>",
+      "details_1": "<div class=p-3 mb-2 bg-transparent text-dark>.bg-transparent</div>"
+    },
+
+    {
+      "_id": "cd2b53655737cc4077542baea9f8f75d",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 700,
+      "title": "CSS border & border-radius",
+      "author": {
+        "name": "Daniel Deangelo",
+        "published_date": "2022-08-30 20:02:52",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://www.mattepuffo.com/IMMAGINI_ARTICOLI/html-css.png",
+      "details": "p {border: 2px solid red;border-radius: 5px;}",
+      "details_1": "p.dotted {border-style: dotted;}"
+    },
+    {
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "07",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 300,
+      "title": "PHP Functions",
+      "author": {
+        "name": "",
+        "published_date": "2022-08-24 22:30:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url":"https://www.cloudways.com/blog/wp-content/uploads/How-to-Connect-MySQL-Database-with-PHP-Websites.jpg",
+      "details": "function functionName() {code to be executed;}",
+      "details_1":"<?function writeMsg() {echo Hello world!;}writeMsg();// call the function?>"
+    },
+    {
+      "_id": "7c4dfea0fafddc813673282a428429b7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 0,
+      "title": "HTML Images",
+      "author": {
+        "name": "Reuters",
+        "published_date": "2022-08-25 03:09:16",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://cdn0.iconfinder.com/data/icons/flat-file-format/100/html-512.png",
+      "details": "The <img> tag has two required attributes , src - Specifies the path to the image ,alt - Specifies an alternate text for the image. Syntax - <img src=url alt= alternatetext >",
+      "details_1": "<img src=pic_trulli.jpg alt= Italian Trulli >"
+    },
+    {
+      "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 320,
+      "title": "HTML Background Images",
+      "author": {
+        "name": "John Pike",
+        "published_date": "2022-08-25 07:35:11",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://icon-library.com/images/html-icon-png/html-icon-png-9.jpg",
+      "details": "To add a background image on an HTML element, use the HTML style attribute and the CSS background-image property:",
+      "details_1": "<p style=background-image: url('img_girl.jpg');>"
+    },
+    {
+      "_id": "df11ff9feefc37613cc3a4486ce02151",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 552,
+      "title": "CSS width and max-width",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-27 05:38:02",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://thumbs.dreamstime.com/b/css-file-vector-glyph-colour-icon-216656251.jpg",
+      "details": "div.ex1 {width: 500px; margin: auto; border: 3px solid #73AD21;}",
+      "details_1": "div.ex2 {max-width: 500px; margin: auto; border: 3px solid #73AD21;}"
+    },
+    {
+      "_id": "919db97c34e0778b387dd40cdfa08130",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 89,
+      "title": "HTML Block and Inline Elements",
+      "author": {
+        "name": "MarketScreener",
+        "published_date": "2022-08-30 18:05:42",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://kendsnyder.com/wp-content/uploads/2016/08/post-44892276.png",
+      "details": "A block-level element always starts on a new line.Two commonly used block elements are: <p> and <div>. <p>Hello World</p> <div>Hello World</div>",
+      "details_1": "An inline element does not start on a new line, takes up as much width as necessary .<span>Hello World</span>"
+    },
+    {
+      "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 798,
+      "title": "HTML class Attribute",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-25 18:45:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://cdn0.iconfinder.com/data/icons/flat-file-format/100/html-512.png",
+      "details": "The HTML class attribute is used to specify a class for an HTML element. Multiple HTML elements can share the same class.",
+      "details_1": "<style>.city {background-color: tomato; color: white; border: 2px solid black; margin: 20px; padding: 20px;}</style>"
+    },
+    {
+      "_id": "acb9b6785b62698fc6130db7615965e1",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 879,
+      "title": "Javascript Variables",
+      "author": {
+        "name": "RTTNews",
+        "published_date": "2022-08-25 11:53:13",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://o.dlf.pt/dfpng/smallpng/23-239861_javascript-logo-hd-png-download.png",
+      "details": "In this example, x, y, and z, are variables, declared with the var keyword:",
+      "details_1": "var x = 5; var y = 6; var z = x + y; "
+    },
+    {
+      "_id": "be44c843d61859cc0b87cae85c55f9db",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 231,
+      "title": "HTML id Attribute",
+      "author": {
+        "name": "Kumar Natasha",
+        "published_date": "2022-08-26 12:15:36",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://icon-library.com/images/html-icon-png/html-icon-png-9.jpg",
+      "details": "The HTML id attribute is used to specify a unique id for an HTML element.You cannot have more than one element with the same id in an HTML document.",
+      "details_1": "<style>#myHeader {background-color: lightblue;color: black; padding: 40px; text-align: center;}</style>"
+    },
+    {
+      "_id": "1b03149c50f1bec662062d930bf46489",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 546,
+      "title": "CSS Opacity / Transparency",
+      "author": {
+        "name": "The Philadelphia Inquirer",
+        "published_date": "2022-08-30 22:00:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://www.pngitem.com/pimgs/m/155-1550132_css-3-logo-png-css-logo-transparent-png.png",
+      "details": "img { opacity: 0.5; }  img:hover { opacity: 1.0; }",
+      "details_1": "div { background: rgba(76, 175, 80, 0.3) } /* Green background with 30% opacity */"
+    },
+    {
+      "_id": "7f5b80c1cdd4df0111918883eae07349",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 1870,
+      "title": "Javascript Addition ",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://www.pngkey.com/png/detail/550-5509803_js-logo-javascript-logo-circle-png.png",
+      "published_date": "2022-08-24 18:00:00",
+      "details": "The += assignment operator adds a value to a variable.",
+      "details_1": "let x = 10; x += 5; Value of x is: 15"
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "07",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_view": 354,
+      "title": "The PHP echo Statement",
+      "author": {
+        "name": "Presstv",
+        "published_date": "2022-08-30 17:44:16",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+      "image_url": "https://miro.medium.com/max/940/1*BYR_DG3kfw5g18LDHxdWnQ.jpeg",
+      "details": "<?php echo <h2>PHP is Fun!</h2>;?>  <?php echo <h2>Hello world!</h2>;?> ",
+      "details_1":"<?php echo <h2>I'm about to learn PHP!</h2>;?>" 
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "Bootstrap Outline buttons",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-26 00:37:24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
+      "image_url": "https://e7.pngegg.com/pngimages/391/430/png-clipart-bootstrap-full-logo-tech-companies.png",
+      "details": "<button type=button class=btn btn-outline-primary> Primary </button>",
+      "details_1": "<button type=button class=btn btn-outline-dark> Dark </button>"
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "Create React App",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-26 00:37:24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
+      "image_url": "https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png",
+      "details": "npx create-react-app my-app",
+      "details_1":"cd my-app ,  npm start"
+    }
+  ]
